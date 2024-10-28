@@ -4,16 +4,18 @@ export default function ContactLinks() {
     const c_link_content = React.useMemo(() => [{
         name: 'Git',
         icon: 'github',
-        href: 'https://github.com/Suleymanova-Gamar'
+        href: 'https://github.com/developmentofstartup'
     }, {
         name: 'E-mail',
         icon: 'envelope-at-fill',
-        href: 'mailto:suleymanovagamar03@gmail.com'
-    }, {
+        href: 'mailto:suleymanovagamar9@gmail.com'
+    }, 
+    {
         name: 'LinkedIn',
         icon: 'linkedin',
-        href: 'https://www.linkedin.com/in/gamar-suleymanova/'
-    }], []);
+        href: 'https://www.linkedin.com/in/gamar-suleymanova-front/'
+    }
+    ], []);
     return (
         <div className="contact-links d-flex gap-1 align-items-center">
             {c_link_content.map(link => {
