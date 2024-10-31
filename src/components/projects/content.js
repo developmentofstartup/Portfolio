@@ -71,7 +71,7 @@ const content = [
         designLink: 'https://www.figma.com/design/Mrzptx7vVSkLlLct9V6JZG/BudgetBuddy?node-id=0-1&t=AEjJLbWSa0Y9JBIO-0',
         info: {
             header: 'BudgetBuddy',
-            descriptions: "BudgetBuddy is a user-friendly savings app designed to help individuals track their expenses and income. With intuitive features for adding and managing transactions, BudgetBuddy allows users to monitor their daily, weekly, and monthly spending habits. The app includes visual charts to provide insights into financial trends and aids users in achieving their savings goals. Currently, I'm working on the design, so other links are not yet provided.",
+            descriptions: "BudgetBuddy is a user-friendly savings app designed to help individuals track their expenses and income. With intuitive features for adding and managing transactions, BudgetBuddy allows users to monitor their daily, weekly, and monthly spending habits. The app includes visual charts to provide insights into financial trends and aids users in achieving their savings goals. The design of the project is completed. Currently, I'm working on the front end development of the project",
             tools: [
                 {
                     toolName: 'React',
