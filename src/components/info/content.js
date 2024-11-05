@@ -27,7 +27,7 @@ const education = [
 ];
 const experiences = [
     {
-        startDate: '2023 March',
+        startDate: '2023 February',
         endDate: '2024 February',
         jobTitle: 'Front End Developer • Decord Technologies',
         description: 'Developed UIs for various projects, including airline ticket sales, therapy session scheduling, educational course sales, and social media platforms. Initially joined as an intern for 2 months, then transitioned to a full-time developer. Over the past 4 months, served as a team leader, mentoring two developers, one of whom stayed on as a front-end developer. Gained proficiency in HTML, CSS, JavaScript, jQuery, and SCSS.'

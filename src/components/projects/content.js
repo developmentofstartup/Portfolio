@@ -6,6 +6,8 @@ import img3 from '../../assets/projects/3.png';
 import prj2_imgPhone from '../../assets/projects/second_prj/android_lg.png';
 import prj2_imgTab from '../../assets/projects/second_prj/ipad.png';
 import prj2_imgMac from '../../assets/projects/second_prj/macbook.png';
+
+import prj3_imgMac from '../../assets/projects/third_prj/Home page.png';
 // tools
 import htmlIcon from '../../assets/tools/html5.svg';
 import cssIcon from '../../assets/tools/css3.svg';
@@ -14,6 +16,8 @@ import reactIcon from '../../assets/tools/react.svg';
 import JQueryIcon from '../../assets/tools/JQuery.svg';
 import jsIcon  from '../../assets/tools/js.svg';
 import reduxIcon from '../../assets/tools/redux.svg';
+import materialUIIcon from '../../assets/tools/material-ui.svg';
+import tailwindIcon from '../../assets/tools/tailwind.svg';
 
 const content = [
     {
@@ -86,6 +90,38 @@ const content = [
                 {
                     toolName: 'Redux',
                     toolIcon: reduxIcon,
+                    iconColor: '#764ABC'
+                }
+            ]
+        },
+    },
+    {
+        imgSrc: {
+            laptopSize: prj3_imgMac,
+            tabletSize: prj3_imgMac,
+            mobileSize: prj3_imgMac
+        },
+        imgAlt: 'Screenshot of the Tapshir website',
+        // liveLink: 'https://developmentofstartup.github.io/BudgetBuddy/',
+        // codesLink: 'https://github.com/developmentofstartup/BudgetBuddy/',
+        designLink: 'https://www.figma.com/design/0TiCAewzzX4bsafv7ozk3s/Freelancer?node-id=0-1&node-type=canvas&t=YQG0UKy5gtoNbYzn-0',
+        info: {
+            header: 'Tapshir',
+            descriptions: "Tapshir is a startup where freelancers can find and apply for temporary jobs from clients or companies in Azerbaijan. I worked only mainly on the frontend development of Profile Setting page which you can access from the menu. The codes weren't going to be provided, but when live link will be ready I will share it right away.",
+            tools: [
+                {
+                    toolName: 'React',
+                    toolIcon: reactIcon,
+                    iconColor: '#61DAFB'
+                },
+                {
+                    toolName: 'Material UI',
+                    toolIcon: materialUIIcon,
+                    iconColor: '#a020f0'
+                },
+                {
+                    toolName: 'Tailwind CSS',
+                    toolIcon: tailwindIcon,
                     iconColor: '#764ABC'
                 }
             ]
