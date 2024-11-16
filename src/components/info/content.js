@@ -1,5 +1,5 @@
 const hardSkills = [
-    'HTML, CSS , JS (ES6+, DOM manipulation)',
+    'HTML, CSS , JS (ES6+), TypeScript',
     'Web accessibility and SEO',
     'React, Redux, Chakra UI, Formik, Yup, Material UI, Tailwind',
     'Unit Testing: Jest, React Testing Library',
@@ -35,8 +35,8 @@ const experiences = [
     {
         startDate: '2024 October 1st',
         endDate: '2024 October 30th',
-        jobTitle: 'Front End Developer • Tashir',
-        description: 'It is a startup where freelancers can find and apply for temporary jobs from clients or companies in Azerbaijan. We developed the IU of the project using technologies like React, Material UI, Tailwind CSS and etc.'
+        jobTitle: 'Front End Developer • Tapshir',
+        description: 'It is a startup where freelancers can find and apply for temporary jobs from clients or companies in Azerbaijan. We developed the IU of the project using technologies like React (with TypeScript), Material UI, Tailwind CSS and etc.'
     }
 ];
 export { hardSkills, softSkills, education, experiences }
