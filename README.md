@@ -1,4 +1,4 @@
-# MyPortfolio
+# Portfolio
 
 ## Overview
 MyPortfolio is a web application built with React.js to showcase my projects, skills, and experiences as a developer.
